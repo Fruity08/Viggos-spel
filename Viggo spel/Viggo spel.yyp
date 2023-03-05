@@ -25,6 +25,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Notes","folderPath":"folders/Notes.yy","order":13,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy","order":14,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GUI","folderPath":"folders/Objects/GUI.yy","order":1,},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -32,6 +33,12 @@
     "IDEVersion": "2023.1.1.62",
   },
   "resources": [
+    {"id":{"name":"oButton_quit","path":"objects/oButton_quit/oButton_quit.yy",},"order":0,},
+    {"id":{"name":"get_hover","path":"scripts/get_hover/get_hover.yy",},"order":3,},
+    {"id":{"name":"oManager","path":"objects/oManager/oManager.yy",},"order":0,},
+    {"id":{"name":"create_button","path":"scripts/create_button/create_button.yy",},"order":0,},
+    {"id":{"name":"on_click_quit","path":"scripts/on_click_quit/on_click_quit.yy",},"order":2,},
+    {"id":{"name":"oButton","path":"objects/oButton/oButton.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "RoomOrderNodes": [

@@ -14,6 +14,11 @@
     {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
+    {"name":"GUI","order":1,"path":"folders/Objects/GUI.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"get_hover","order":3,"path":"scripts/get_hover/get_hover.yy",},
+    {"name":"on_click_quit","order":2,"path":"scripts/on_click_quit/on_click_quit.yy",},
+    {"name":"oButton","order":1,"path":"objects/oButton/oButton.yy",},
+  ],
 }
